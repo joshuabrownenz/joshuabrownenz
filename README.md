@@ -8,8 +8,11 @@ Software Engineer @ Simply Coffee Ltd
 
 ### What I Know
 🖥️ `Python` | `Microsoft Azure` | `Java` | `Javascript` | `C++`  
+
 🤖 `MySQL` | `React.js` | `Firestore` | `trying really hard to learn rust`  
+
 🤓 `DevOps` | `.NET` | `C#` | `Gatsby.js` 
+
 🎧 `Shopify APIs` | `Full Stack` | `REST APIs` | `GraphQL`
 
 and more!
