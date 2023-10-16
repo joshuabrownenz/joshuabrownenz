@@ -1,16 +1,38 @@
-### Hi there 👋
+## Joshua Browne
+👨‍💻 Software Engineer & Robotics Enthusiast
 
-<!--
-**joshuabrownenz/joshuabrownenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I Do
+Software Engineering Student @ The University of Auckland (Future class of 2025)
 
-Here are some ideas to get you started:
+Software Engineer @ Simply Coffee Ltd
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I Know
+🖥️ `Python` | `Microsoft Azure` | `Java` | `Javascript` | `C++`  
+🤖 `MySQL` | `React.js` | `Firestore` | `trying really hard to learn rust`  
+🤓 `DevOps` | `.NET` | `C#` | `Gatsby.js` 
+🎧 `Shopify APIs` | `Full Stack` | `REST APIs` | `GraphQL`
+
+and more!
+
+### What I Like
+#### When I'm coding
+
+💾 atm really obsessed with understanding databases. See my repo [database-from-scratch](https://github.com/joshuabrownenz/database-from-scratch). (If you keep looking you'll see other semi-successful attempts)
+
+#### In my free time
+
+🥾 Hiking
+
+🏂 Snowboarding
+
+🤿 Scuba Diving
+
+
+### Certifications
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+### My Links
+🌐 [LinkedIn](https://linkedin.com/in/joshuabrownenz) 
+
+📝 [Credly](https://credly.com/users/joshuabrownenz)
