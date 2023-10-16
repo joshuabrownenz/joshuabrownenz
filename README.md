@@ -1,5 +1,5 @@
 ## Joshua Browne
-👨‍💻 Software Engineer & Robotics Enthusiast
+👨‍💻 Software Engineer & Automation Enthusiast
 
 ### What I Do
 Software Engineering Student @ The University of Auckland (Future class of 2025)
