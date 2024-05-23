@@ -17,14 +17,9 @@ Software Engineer @ Simply Coffee Ltd
 
 and more!
 
-### What I Like
-#### When I'm coding
-
-💾 atm really obsessed with understanding databases. See my repo [database-from-scratch](https://github.com/joshuabrownenz/database-from-scratch). (If you keep looking you'll see other semi-successful attempts)
-
 #### In my free time
 
-🥾 Hiking
+🥾 Tramping
 
 🏂 Snowboarding
 
